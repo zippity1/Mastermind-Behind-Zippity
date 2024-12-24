@@ -1,4 +1,4 @@
-#Zippity: A Genuine Passion-Driven Token with Vision
+## Zippity: A Genuine Passion-Driven Token with Vision
 
 In the ever-evolving world of cryptocurrency, ZIPPITY stands out as a project driven by authenticity, innovation, and hard work. At its core, this token is built on the principles of community and transparency, ensuring that anyone who trades or holds it has the opportunity to experience the potential of a vision fueled by a single, dedicated individual.
 
@@ -12,9 +12,8 @@ By committing to swapping Solana for #Zippity, you’re not just investing in a 
 
 Join the Zippity movement today and help turn this bold vision into a groundbreaking reality. Together, we can build a community that thrives on trust, effort, and shared success.
 
+## Consider Getting In Early!
 ***You can confirm token address on Solscan > https://solscan.io/token/C2P5V6qW5vSnZL8hknWZPfRtxs3QyKRqnHLVQt4qpump
-
-## Consider getting in early!
 
 ***Trusted Instructional Source
 
