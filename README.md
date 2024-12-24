@@ -11,3 +11,6 @@ To build momentum, ZIPPITY is inviting a genuine team of interns to join the mov
 By committing to swapping Solana for #Zippity, you’re not just investing in a token—you’re creating a tangible tie to the project’s success. This vested connection ensures that you’re informed, motivated, and driven to see it succeed, aligning your goals with the project’s exponential growth potential.
 
 Join the Zippity movement today and help turn this bold vision into a groundbreaking reality. Together, we can build a community that thrives on trust, effort, and shared success.
+
+Consider getting in early!
+> https://github.com/zippity1/Set-Up-a-Phantom-Wallet-and-Trade-Zippity
