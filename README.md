@@ -12,5 +12,12 @@ By committing to swapping Solana for #Zippity, you’re not just investing in a 
 
 Join the Zippity movement today and help turn this bold vision into a groundbreaking reality. Together, we can build a community that thrives on trust, effort, and shared success.
 
-Consider getting in early!
-> https://github.com/zippity1/Set-Up-a-Phantom-Wallet-and-Trade-Zippity
+***You can confirm token address on Solscan > https://solscan.io/token/C2P5V6qW5vSnZL8hknWZPfRtxs3QyKRqnHLVQt4qpump
+
+## Consider getting in early!
+
+***Trusted Instructional Source
+
+Check Phantom's official guide: https://help.phantom.app
+
+*** How to Set Up Phantom Wallet https://youtu.be/1xm-HV8u0PA?si=YEtJjJQX8gJB60Re
