@@ -1,6 +1,6 @@
 ## Zippity: A Genuine Passion-Driven Token with Vision
 
-In the ever-evolving world of cryptocurrency, ZIPPITY stands out as a project driven by authenticity, innovation, and hard work. At its core, this token is built on the principles of community and transparency, ensuring that anyone who trades or holds it has the opportunity to experience the potential of a vision fueled by a single, dedicated individual.
+In the ever-evolving world of cryptocurrency, ZIPPITY stands out as a project driven by authenticity, innovation, and hard work. At its core, this token is built on the principles of community and transparency, ensuring that anyone who trades or holds it has the opportunity to experience the potential of a vision currently fueled by a single, dedicated individual.
 
 The mastermind behind ZIPPITY brings a wealth of experience to the table, spanning a variety of fields including web design, storytelling, marketing, data analysis, crypto design, and business development. This multifaceted background even extends to hands-on skills like carpentry, electrical installations, and home remodeling. This diverse expertise forms the backbone of a project that resonates with hardworking individuals who appreciate the value of effort and creativity.
 
