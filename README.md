@@ -13,7 +13,11 @@ By committing to swapping Solana for #Zippity, you’re not just investing in a 
 Join the Zippity movement today and help turn this bold vision into a groundbreaking reality. Together, we can build a community that thrives on trust, effort, and shared success.
 
 ## Consider Getting In Early!
-***You can confirm token address on New Solana token address coming soon! No worries about the old address—there's no complicated migration involved. It's a simple transfer, and you're in 100% control. The new address will be updated here. Stay tuned!
+*** Token Address:  Hb9JJ1JrkkAYdbWChj2ceqHHAbFFFunSWJNMPxsC8eou
+
+Confirm on SolScan> https://solscan.io/token/Hb9JJ1JrkkAYdbWChj2ceqHHAbFFFunSWJNMPxsC8eou)
+
+All of you were contacted. No worries about the old address—there's no complicated migration involved. It's a simple swap/transfer, and you're in 100% control. 
 
 ***Trusted Instructional Source
 
